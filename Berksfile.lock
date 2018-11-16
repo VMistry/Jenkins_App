@@ -1,0 +1,7 @@
+DEPENDENCIES
+  jenkinsCookbook
+    git: https://github.com/VMistry/jenkinsCookbook
+    revision: 8eb89d46b216aacdb2bd964941aa4e4c2a79f715
+
+GRAPH
+  jenkinsCookbook (0.1.0)
